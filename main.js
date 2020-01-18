@@ -1,1 +1,1 @@
-console.log("I love salmon")
+console.log("I love gold")
