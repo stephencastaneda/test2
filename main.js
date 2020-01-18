@@ -1,1 +1,1 @@
-console.log("I love chocolate")
+console.log("I love hotpink")
